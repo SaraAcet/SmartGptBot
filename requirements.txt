@@ -1,0 +1,6 @@
+pandas
+torch
+sentence-transformers
+pymupdf
+gradio
+gTTS
